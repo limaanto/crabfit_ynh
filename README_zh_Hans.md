@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Crab Fit
 
-[![集成程度](https://dash.yunohost.org/integration/crabfit.svg)](https://dash.yunohost.org/appci/app/crabfit) ![工作状态](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/crabfit.svg)](https://ci-apps.yunohost.org/ci/apps/crabfit/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
 
 [![使用 YunoHost 安装 Crab Fit](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=crabfit)
 

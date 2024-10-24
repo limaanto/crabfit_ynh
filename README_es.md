@@ -5,7 +5,7 @@ No se debe editar a mano.
 
 # Crab Fit para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/crabfit.svg)](https://dash.yunohost.org/appci/app/crabfit) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/crabfit.svg)](https://ci-apps.yunohost.org/ci/apps/crabfit/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
 
 [![Instalar Crab Fit con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=crabfit)
 
@@ -45,7 +45,7 @@ Results update live and you will be able to see a heat-map of when everyone is f
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/crabfit_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/crabfit_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
