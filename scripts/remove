@@ -1,11 +1,5 @@
 #!/bin/bash
 
-#=================================================
-# GENERIC START
-#=================================================
-# IMPORT GENERIC HELPERS
-#=================================================
-
 source _common.sh
 source /usr/share/yunohost/helpers
 
@@ -28,8 +22,6 @@ ynh_secure_remove --file="/etc/systemd/system/$app.target"
 ynh_remove_nginx_config
 
 ynh_remove_logrotate
-
-ynh_secure_remove --file="/var/log/$app"
 
 #=================================================
 # END OF SCRIPT
