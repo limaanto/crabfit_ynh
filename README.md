@@ -5,7 +5,7 @@ It shall NOT be edited by hand.
 
 # Crab Fit for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/crabfit.svg)](https://dash.yunohost.org/appci/app/crabfit) ![Working status](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
+[![Integration level](https://dash.yunohost.org/integration/crabfit.svg)](https://ci-apps.yunohost.org/ci/apps/crabfit/) ![Working status](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
 
 [![Install Crab Fit with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=crabfit)
 
