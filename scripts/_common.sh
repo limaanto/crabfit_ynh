@@ -9,6 +9,7 @@ export nodejs_version="18"
 #=================================================
 # PERSONAL HELPERS
 #=================================================
+
 function build_backend
 {
 	# The cargo version packaged with debian (currently 11) is too old and results in errors..
@@ -20,6 +21,10 @@ function build_backend
 			CARGO_HOME=$install_dir/api/.cargo \
 			sh rustup.sh -y -q --no-modify-path --default-toolchain=stable
 		export PATH="$PATH:$install_dir/.cargo/bin"
+		ynh_exec_warn_less ynh_exec_as "$app" \
+			RUSTUP_HOME=$install_dir/api/.rustup \
+			CARGO_HOME=$install_dir/api/.cargo \
+			$install_dir/api/.cargo/bin/cargo update
 		ynh_exec_warn_less ynh_exec_as "$app" \
 			RUSTUP_HOME=$install_dir/api/.rustup \
 			CARGO_HOME=$install_dir/api/.cargo \

@@ -1,3 +1,5 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
+
 packaging_format = 2
 
 id = "crabfit"
@@ -13,16 +15,17 @@ maintainers = ["limaanto"]
 license = "GPL-3.0-only"
 website = "https://crab.fit"
 demo = "https://crab.fit"
-admindoc = "https://github.com/GRA0007/crab.fit"
-userdoc = "https://github.com/GRA0007/crab.fit"
 code = "https://github.com/GRA0007/crab.fit"
 
 [integration]
-yunohost = ">= 11.2"
+yunohost = ">= 11.2.30"
 architectures = "all"
 multi_instance = true
+
 ldap = false
+
 sso = false
+
 disk = "500M"
 ram.build = "500M"
 ram.runtime = "100M"
@@ -37,10 +40,10 @@ ram.runtime = "100M"
 
 [resources]
     [resources.sources]
-        [resources.sources.main]
-        # No releases currently exist in the repo, looking forward to improving that
-        url = "https://github.com/GRA0007/crab.fit/archive/628f9eefc300bf1ed3d6cc3323332c2ed9b8a350.zip"
-        sha256 = "cc87276d26242a90f32f1462319f0cff35c576f6c438cc20e68601f26701b33b"
+    [resources.sources.main]
+    # No releases currently exist in the repo, looking forward to improving that
+    url = "https://github.com/GRA0007/crab.fit/archive/628f9eefc300bf1ed3d6cc3323332c2ed9b8a350.zip"
+    sha256 = "cc87276d26242a90f32f1462319f0cff35c576f6c438cc20e68601f26701b33b"
 
     [resources.system_user]
 
