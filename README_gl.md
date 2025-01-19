@@ -5,7 +5,9 @@ NON debe editarse manualmente.
 
 # Crab Fit para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/crabfit.svg)](https://dash.yunohost.org/appci/app/crabfit) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/crabfit)](https://ci-apps.yunohost.org/ci/apps/crabfit/)
+![Estado de funcionamento](https://apps.yunohost.org/badge/state/crabfit)
+![Estado de mantemento](https://apps.yunohost.org/badge/maintained/crabfit)
 
 [![Instalar Crab Fit con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=crabfit)
 
@@ -26,7 +28,7 @@ Results update live and you will be able to see a heat-map of when everyone is f
 - Editable using a one-time password
 
 
-**Versión proporcionada:** 1.0~ynh3
+**Versión proporcionada:** 1.0~ynh4
 
 **Demo:** <https://crab.fit>
 
@@ -37,8 +39,6 @@ Results update live and you will be able to see a heat-map of when everyone is f
 ## Documentación e recursos
 
 - Web oficial da app: <https://crab.fit>
-- Documentación oficial para usuarias: <https://github.com/GRA0007/crab.fit>
-- Documentación oficial para admin: <https://github.com/GRA0007/crab.fit>
 - Repositorio de orixe do código: <https://github.com/GRA0007/crab.fit>
 - Tenda YunoHost: <https://apps.yunohost.org/app/crabfit>
 - Informar dun problema: <https://github.com/YunoHost-Apps/crabfit_ynh/issues>

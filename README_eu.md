@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Crab Fit YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/crabfit.svg)](https://dash.yunohost.org/appci/app/crabfit) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/crabfit)](https://ci-apps.yunohost.org/ci/apps/crabfit/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/crabfit)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/crabfit)
 
 [![Instalatu Crab Fit YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=crabfit)
 
@@ -26,7 +28,7 @@ Results update live and you will be able to see a heat-map of when everyone is f
 - Editable using a one-time password
 
 
-**Paketatutako bertsioa:** 1.0~ynh3
+**Paketatutako bertsioa:** 1.0~ynh4
 
 **Demoa:** <https://crab.fit>
 
@@ -37,8 +39,6 @@ Results update live and you will be able to see a heat-map of when everyone is f
 ## Dokumentazioa eta baliabideak
 
 - Aplikazioaren webgune ofiziala: <https://crab.fit>
-- Erabiltzaileen dokumentazio ofiziala: <https://github.com/GRA0007/crab.fit>
-- Administratzaileen dokumentazio ofiziala: <https://github.com/GRA0007/crab.fit>
 - Jatorrizko aplikazioaren kode-gordailua: <https://github.com/GRA0007/crab.fit>
 - YunoHost Denda: <https://apps.yunohost.org/app/crabfit>
 - Eman errore baten berri: <https://github.com/YunoHost-Apps/crabfit_ynh/issues>
