@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # Crab Fit for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/crabfit.svg)](https://ci-apps.yunohost.org/ci/apps/crabfit/) ![Working status](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/crabfit)](https://ci-apps.yunohost.org/ci/apps/crabfit/)
+![Working status](https://apps.yunohost.org/badge/state/crabfit)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/crabfit)
 
 [![Install Crab Fit with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=crabfit)
 
@@ -37,8 +39,6 @@ Results update live and you will be able to see a heat-map of when everyone is f
 ## Documentation and resources
 
 - Official app website: <https://crab.fit>
-- Official user documentation: <https://github.com/GRA0007/crab.fit>
-- Official admin documentation: <https://github.com/GRA0007/crab.fit>
 - Upstream app code repository: <https://github.com/GRA0007/crab.fit>
 - YunoHost Store: <https://apps.yunohost.org/app/crabfit>
 - Report a bug: <https://github.com/YunoHost-Apps/crabfit_ynh/issues>

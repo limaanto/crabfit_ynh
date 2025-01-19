@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # Crab Fit pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/crabfit.svg)](https://ci-apps.yunohost.org/ci/apps/crabfit/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/crabfit)](https://ci-apps.yunohost.org/ci/apps/crabfit/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/crabfit)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/crabfit)
 
 [![Installer Crab Fit avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=crabfit)
 
@@ -37,8 +39,6 @@ Les résultats sont mis à jour en direct et vous pourrez voir une carte thermiq
 ## Documentations et ressources
 
 - Site officiel de l’app : <https://crab.fit>
-- Documentation officielle utilisateur : <https://github.com/GRA0007/crab.fit>
-- Documentation officielle de l’admin : <https://github.com/GRA0007/crab.fit>
 - Dépôt de code officiel de l’app : <https://github.com/GRA0007/crab.fit>
 - YunoHost Store : <https://apps.yunohost.org/app/crabfit>
 - Signaler un bug : <https://github.com/YunoHost-Apps/crabfit_ynh/issues>
