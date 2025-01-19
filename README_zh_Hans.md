@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Crab Fit
 
-[![集成程度](https://dash.yunohost.org/integration/crabfit.svg)](https://ci-apps.yunohost.org/ci/apps/crabfit/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/crabfit)](https://ci-apps.yunohost.org/ci/apps/crabfit/)
+![工作状态](https://apps.yunohost.org/badge/state/crabfit)
+![维护状态](https://apps.yunohost.org/badge/maintained/crabfit)
 
 [![使用 YunoHost 安装 Crab Fit](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=crabfit)
 
@@ -37,8 +39,6 @@ Results update live and you will be able to see a heat-map of when everyone is f
 ## 文档与资源
 
 - 官方应用网站： <https://crab.fit>
-- 官方用户文档： <https://github.com/GRA0007/crab.fit>
-- 官方管理文档： <https://github.com/GRA0007/crab.fit>
 - 上游应用代码库： <https://github.com/GRA0007/crab.fit>
 - YunoHost 商店： <https://apps.yunohost.org/app/crabfit>
 - 报告 bug： <https://github.com/YunoHost-Apps/crabfit_ynh/issues>

@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Crab Fit untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/crabfit.svg)](https://ci-apps.yunohost.org/ci/apps/crabfit/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/crabfit.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/crabfit.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/crabfit)](https://ci-apps.yunohost.org/ci/apps/crabfit/)
+![Status kerja](https://apps.yunohost.org/badge/state/crabfit)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/crabfit)
 
 [![Pasang Crab Fit dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=crabfit)
 
@@ -37,8 +39,6 @@ Results update live and you will be able to see a heat-map of when everyone is f
 ## Dokumentasi dan sumber daya
 
 - Website aplikasi resmi: <https://crab.fit>
-- Dokumentasi pengguna resmi: <https://github.com/GRA0007/crab.fit>
-- Dokumentasi admin resmi: <https://github.com/GRA0007/crab.fit>
 - Depot kode aplikasi hulu: <https://github.com/GRA0007/crab.fit>
 - Gudang YunoHost: <https://apps.yunohost.org/app/crabfit>
 - Laporkan bug: <https://github.com/YunoHost-Apps/crabfit_ynh/issues>
